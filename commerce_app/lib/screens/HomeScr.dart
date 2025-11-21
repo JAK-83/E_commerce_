@@ -12,7 +12,11 @@ class _HomeScrState extends State<HomeScr> {
     return Scaffold(
 
       body: Column(children: [
-        Text("Hijameel")
+        Text("Hijameel"),
+        Text("Hijameel"),
+        Text("Hijameel"),
+        Text("Hijameel"),
+        Text("Hijameel"),
       ],),
     );
   }
