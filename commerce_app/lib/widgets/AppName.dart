@@ -48,7 +48,7 @@ class AppName extends StatelessWidget {
             ],
           ),
 
-          ///thunder icon
+          ///thunder icon   
           Image.asset("assets/thunderIcon.png"),
         ],
       ),
