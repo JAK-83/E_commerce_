@@ -5,7 +5,7 @@ class FreeShipingTxt extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Padding( 
+    return Padding(  
       padding: const EdgeInsets.only(top: 15),
       child: Container(
         height: MediaQuery.of(context).size.height * .03,
